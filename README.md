@@ -13,4 +13,4 @@ The project contains the following CPU Models:
 
 To run the program enter the following command in terminal:: 
 
-rm -f *.vcd && rm -f *.v && python riscv_cpu.py
+- python riscv_cpu.py
