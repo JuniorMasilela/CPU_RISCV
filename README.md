@@ -11,4 +11,6 @@ The project contains the following CPU Models:
 - Write back:         Write the data to memory if modified
 
 
+To run the program enter the following command in terminal:: 
 
+rm -f *.vcd && rm -f *.v && python riscv_cpu.py
